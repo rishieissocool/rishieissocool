@@ -8,7 +8,7 @@
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/rishieissocool?label=Follow&style=social)](https://github.com/rishieissocool?tab=followers)
-[![Most Used Language](https://img.shields.io/github/languages/top/rishieissocool/GoDefender?color=8e44ad&logo=go)](https://github.com/rishieissocool/GoDefender)
+[![Most Used Language](https://img.shields.io/github/languages/top/rishieissocool/rishieissocool?color=8e44ad&logo=c#)](https://github.com/rishieissocool/rishieissocool)
 [![Profile Views](https://komarev.com/ghpvc/?username=rishieissocool&color=8e44ad)](https://github.com/rishieissocool)
 [![Stars](https://img.shields.io/github/stars/rishieissocool?style=social)](https://github.com/rishieissocool?tab=repositories)
 
