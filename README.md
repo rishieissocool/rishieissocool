@@ -16,8 +16,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=80&section=header&text=&fontColor=fff&animation=twinkling" />
 
-  
-🔮 <b>Reverse Engineering</b> • <b>WinAPI Enthusiast</b> • <b>AV/EDR/XDR Evasion</b> • <b>Malware Development</b>
+
+🔮 <b>Reverse Engineering</b> • <b>Remote Access Tooling</b> • <b>Server & C2 Infrastructure</b> • <b>Malware Development</b>
 
 </div>
 
