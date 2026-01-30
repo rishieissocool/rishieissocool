@@ -54,7 +54,7 @@
 ## 🟣 Explore More
 
 <p align="center">
-  <a href="https://github.com/search?q=user%3Arishiissocool&sort=stars&order=desc">
+  <a href="https://github.com/search?q=user%3Arishieissocool&sort=stars&order=desc">
     <img src="https://img.shields.io/badge/-SEE%20ALL%20PROJECTS-8e44ad?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
