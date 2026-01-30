@@ -74,13 +74,6 @@
 <details>
 <summary><b>✨ GitHub Stats, Trophies & More</b></summary>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishieissocool&theme=onedark&column=7&margin-w=10&margin-h=15"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishieissocool&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=8e44ad&icon_color=8e44ad"/>
-</p>
 
 </details>
 
