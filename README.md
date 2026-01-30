@@ -17,7 +17,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8e44ad&height=80&section=header&text=&fontColor=fff&animation=twinkling" />
 
 
-🔮 <b>Reverse Engineering</b> • <b>Remote Access Tooling</b> • <b>Server & C2 Infrastructure</b> • <b>Malware Development</b>
+🔍 <b>Reverse Engineering</b> • <b>Remote Access Tooling</b> • <b>Server & C2 Infrastructure</b> • <b>Malware Development</b>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 | 🚩 Project | ⭐ | Description |
 |:---|:---:|:---|
-| [GoDefender](https://github.com/EvilBytecode/GoDefender) | ![Stars](https://img.shields.io/github/stars/EvilBytecode/GoDefender?style=social) | Anti-VM, anti-debug, and sandbox detection for Windows (Go) |
+| [Pulsar Rat Contributor (Multiple Articles Written About This Project)]([[https://github.com/EvilBytecode/GoDefender](https://github.com/Quasar-Continuation/PulsarK)](https://github.com/Quasar-Continuation/PulsarK)) | ![Stars](https://img.shields.io/github/stars/EvilBytecode/GoDefender?style=social) | Anti-VM, anti-debug, and sandbox detection for Windows (Go) |
 | [GoRedOps](https://github.com/EvilBytecode/GoRedOps) | ![Stars](https://img.shields.io/github/stars/EvilBytecode/GoRedOps?style=social) | Red team & malware techniques in Go |
 | [EDR-XDR-AV-Killer](https://github.com/EvilBytecode/EDR-XDR-AV-Killer) | ![Stars](https://img.shields.io/github/stars/EvilBytecode/EDR-XDR-AV-Killer?style=social) | Kills EDR/XDR/AVs via driver abuse |
 
