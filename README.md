@@ -1,9 +1,9 @@
 <!--
-  EvilBytecode README – purple theme, animated badges, section separators, interactive elements
+  HUGE CREDITS TO EVILBYTECODE FOR THE README (let me know if you want me to take this down <3)
 -->
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8E44AD&vCenter=true&width=700&lines=EvilBytecode" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8E44AD&vCenter=true&width=700&lines=Rishie" alt="Typing SVG" />
 
 <br>
 
