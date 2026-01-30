@@ -29,9 +29,9 @@
 
 | 🚩 Project | ⭐ | Description |
 |:---|:---:|:---|
-| [Pulsar Rat Contributor (Multiple Articles Written About This Project)]([[https://github.com/EvilBytecode/GoDefender](https://github.com/Quasar-Continuation/PulsarK)](https://github.com/Quasar-Continuation/PulsarK)) | ![Stars](https://img.shields.io/github/stars/EvilBytecode/GoDefender?style=social) | Anti-VM, anti-debug, and sandbox detection for Windows (Go) |
-| [GoRedOps](https://github.com/EvilBytecode/GoRedOps) | ![Stars](https://img.shields.io/github/stars/EvilBytecode/GoRedOps?style=social) | Red team & malware techniques in Go |
-| [EDR-XDR-AV-Killer](https://github.com/EvilBytecode/EDR-XDR-AV-Killer) | ![Stars](https://img.shields.io/github/stars/EvilBytecode/EDR-XDR-AV-Killer?style=social) | Kills EDR/XDR/AVs via driver abuse |
+| [Pulsar Rat Contributor (Multiple Articles Written About This Project)](https://github.com/Quasar-Continuation/PulsarK) | ![Stars](https://img.shields.io/github/stars/Quasar-Continuation/PulsarK?style=social) | A Free, Open-Source Remote Administration Tool for Windows |
+| [PhantomReg](https://github.com/rishieissocool/PhantomReg) | ![Stars](https://img.shields.io/github/stars/rishieissocool/PhantomReg?style=social) | Malware Persisten & Evasion Using Windows .Reg Files (in Python) |
+| [ByteDriverLoader](https://github.com/rishieissocool/ByteDriverLoader) | ![Stars](https://img.shields.io/github/stars/rishieissocool/ByteDriverLoader?style=social) | An example project for loading a kernel driver from bytes in memory. |
 
 ---
 
@@ -54,7 +54,7 @@
 ## 🟣 Explore More
 
 <p align="center">
-  <a href="https://github.com/search?q=user%3AEvilBytecode&sort=stars&order=desc">
+  <a href="https://github.com/search?q=user%3Arishiissocool&sort=stars&order=desc">
     <img src="https://img.shields.io/badge/-SEE%20ALL%20PROJECTS-8e44ad?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -64,8 +64,8 @@
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://t.me/ebytelabs">
-    <img src="https://img.shields.io/badge/Telegram-ebytelabs-8e44ad?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="notrishie">
+    <img src="https://img.shields.io/badge/notrishie-8e44ad?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 
@@ -75,11 +75,11 @@
 <summary><b>✨ GitHub Stats, Trophies & More</b></summary>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EvilBytecode&theme=onedark&column=7&margin-w=10&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rishieissocool&theme=onedark&column=7&margin-w=10&margin-h=15"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvilBytecode&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=8e44ad&icon_color=8e44ad"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishieissocool&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&title_color=8e44ad&icon_color=8e44ad"/>
 </p>
 
 </details>
